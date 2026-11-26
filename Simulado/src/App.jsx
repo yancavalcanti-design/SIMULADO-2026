@@ -2,7 +2,9 @@
 import { useState } from 'react'
 import { dadosClima } from './dadosClima'
 import { codigosWmo } from './codigosWmo'
-import './Components/main.css'
+import header from './Components/Header'
+import main from './Components/main'
+import imgs from '../public/Imgs/solchuva.svg'
 import './App.css'
 
 function App() {
